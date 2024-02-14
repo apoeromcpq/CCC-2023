@@ -1,2 +1,1 @@
-These were my solutions for the 2023 Junior CCC. I'm currently working on the solution for question 5, but every other question was correct.
-Feel free to take inspiration from my code!
+These were my solutions for the 2023 Junior CCC. Some of these might not be the ideal solution, but they got me on the honour roll, so I'd say it worked out.
